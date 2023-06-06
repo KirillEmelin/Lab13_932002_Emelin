@@ -1,0 +1,10 @@
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\bin\Debug\emelin_lab_13.exe.config
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\bin\Debug\emelin_lab_13.exe
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\bin\Debug\emelin_lab_13.pdb
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.Properties.Resources.resources
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.exe
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.pdb
+C:\Users\why_t\Downloads\Lab12-14\13\kirill13\emelin_lab_13\obj\Debug\emelin_lab_13.Form1.resources
